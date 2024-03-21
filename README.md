@@ -14,8 +14,8 @@ This is a simple note-taking application that allows users to create, view, upda
  
 ## Features
 
-*User Authentication: Users need to create an account and login to access their notes.
-*Create Notes: Users can create new notes with a title and content.
-*View Notes: Users can view their existing notes.
-*Update Notes: Users can edit and update their notes.
-*Delete Notes: Users can delete unwanted notes.
+* User Authentication: Users need to create an account and login to access their notes.
+* Create Notes: Users can create new notes with a title and content.
+* View Notes: Users can view their existing notes.
+* Update Notes: Users can edit and update their notes.
+* Delete Notes: Users can delete unwanted notes.
